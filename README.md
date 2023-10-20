@@ -1,2 +1,4 @@
-https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
-INFORME PERSONAL D’ORIENTACIÓ PROFESSIONAL
+<p align="center">
+![logo](https://github.com/Christian270304/IPOP-1DAW/blob/main/logo-institut-sapalomera.png)
+</p> 
+# INFORME PERSONAL D’ORIENTACIÓ PROFESSIONAL
