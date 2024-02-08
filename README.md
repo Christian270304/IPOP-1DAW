@@ -8,13 +8,13 @@
 ## Família Professional: Informàtica i comunicacions
 ## Durada: 2000 H
 
-## Competència general
+# Competència general
 ### La competència general d’aquest títol consisteix a desenvolupar, implantar i mantenir aplicacions web, amb independència del model emprat i utilitzant tecnologies específiques, garantint l’accés a les dades de forma segura i complint els criteris d’accessibilitat, usabilitat i qualitat exigides en els estàndards establerts.
 
-## Capacitats clau
+# Capacitats clau
 ### Són les capacitats transversals que afecten diferents llocs de treball i que són transferibles a noves situacions de treball. Entre aquestes capacitats destaquen les d’autonomia, d’innovació, d’organització del treball, de responsabilitat, de relació interpersonal, de treball en equip i de resolució de problemes.
 
-## Mòduls professional
+# Mòduls professional
 ### M01 Sistemes informàtics 198 Hores
 ### M02 Bases de dades 231 Hores
 ### M03 Programació 297 Hores
@@ -30,7 +30,7 @@
 ### M13 Formació en centres de treball 317 Hores
 
 
-## Sortides laborals
+# Sortides laborals
 ### Aquest o aquesta professional exerceix l’activitat en empreses o entitats públiques o privades tant per compte d’altri com per compte propi, exercint el seu treball en l’àrea de desenvolupament d’aplicacions informàtiques relacionades amb entorns web (intranet, extranet i internet).
 ### Per exemple:
 ### Programador web
@@ -38,7 +38,7 @@
 ### Desenvolupador d'aplicacions en entorns web
 
 
-## Competències personals
+# Competències personals
 ### Adaptar-se a les noves situacions laborals, mantenint actualitzats els coneixements científics, tècnics i tecnològics relatius al seu entorn professional, gestionant la seva formació i els recursos existents en l’aprenentatge al llarg de la vida i utilitzant les tecnologies de la informació i la comunicació.
 
 ### Resoldre situacions, problemes o contingències amb iniciativa i autonomia en l’àmbit de la seva competència, amb creativitat, innovació i esperit de millora en el treball personal i en el dels membres de l’equip.
@@ -55,7 +55,7 @@
 
 ### Exercir els seus drets i complir amb les obligacions derivades de la seva activitat professional, d’acord amb el que estableix la legislació vigent, i participar activament en la vida econòmica, social i cultural.
 
-## Competències professionals
+# Competències professionals
 ### Configurar i explotar sistemes informàtics, adaptant la configuració lògica del sistema segons les necessitats d’ús i els criteris establerts.
 
 ### Aplicar tècniques i procediments relacionats amb la seguretat en sistemes, serveis i aplicacions, complint el pla de seguretat.
