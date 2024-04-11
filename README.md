@@ -88,5 +88,7 @@
 
 ### Gestionar i/o realitzar el manteniment dels recursos de la seva àrea en funció de les càrregues de treball i el pla de manteniment.
 
-
+# 2b
 # Qualificació professional
+
+
